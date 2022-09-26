@@ -1,0 +1,32 @@
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+    font-size: 24;
+    background-color: #000;
+    position: relative;
+    z-index: 1;
+}
+
+.cover {
+    color: blue;
+    font-size: 24;
+    margin-top: -1em;
+    background-color: #000;
+    position: relative;
+    z-index: 1;
+}
+
+.no_display {
+    display: none;
+}
+
+.hidden_button {
+    visibility: hidden;
+}
+
+button {
+    margin-left: 10;
+}
